@@ -17,6 +17,7 @@ contour detection, and visual element segmentation.
 from Google Colab to allow users to upload images. 
 
 **Image Processing:**
+
 • Converted uploaded images to grayscale 
 
 • Utilized the Azure Computer Vision API for OCR to extract text 
@@ -24,8 +25,10 @@ from the images.
 
 • Implemented visual element segmentation using OpenCV to 
 identify and highlight visual elements. 
+
 **Output:** Displayed the segmented visual elements alongside the original 
 image using Matplotlib. 
+
 **Multiple Image Processing:** Extended the program to support the 
 processing of multiple images uploaded by the user, providing separate 
 outputs for each image. 
